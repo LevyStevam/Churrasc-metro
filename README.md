@@ -1,2 +1,2 @@
-# Churrasc-metro
+# Churrascometro
 projeto criado com JavaScript, HTML e CSS.
